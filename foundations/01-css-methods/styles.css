@@ -1,0 +1,9 @@
+div {
+    background-color: red;
+    color: white;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 3em;
+    font-family: sans-serif;
+    font-weight: bold;
+}
